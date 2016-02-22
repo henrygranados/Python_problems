@@ -2,4 +2,4 @@
 
 Simple Python programs 
 
-Intructions could be found in Python_problems.pdf
+Instructions could be found in Python_problems.pdf
